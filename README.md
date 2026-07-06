@@ -12,12 +12,12 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (Final Year)
-- 🏫 Sreenidhi Institute of Science and Technology (SNIST)
+- 🎓 B.Tech in Computer Science & Engineering (Final Year) at **Sreenidhi Institute of Science and Technology (SNIST)**
 - 📊 Passionate about Data Analytics and Business Intelligence
-- 💻 Strong foundation in C, Java, Python, SQL, DSA, and Object-Oriented Programming
-- 📈 Building end-to-end analytics projects using Excel, SQL, Python, PostgreSQL, and Power BI
-- 🌱 Continuously improving my analytical thinking and problem-solving skills
+- 💻 Strong foundation in Python, Java, C, SQL, Data Structures & Algorithms, and Object-Oriented Programming
+- 📈 Skilled in data analysis, visualization, and dashboard development using Excel, Pandas, NumPy, Matplotlib, Seaborn, and Power BI
+- 🚀 Building end-to-end Data Analytics projects to solve real-world business problems
+- 🌱 Continuously learning and improving through hands-on projects
 
 ---
 
@@ -28,20 +28,20 @@ Passionate about transforming raw data into actionable insights and building dat
 - Java
 - C
 
-### Databases
+### Data Analytics
 - SQL
 - PostgreSQL
-
-### Data Analytics
 - Microsoft Excel
-- Power Query
-- Power Pivot
 - Power BI
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
+- Power Query
+- Power Pivot
 
-### Computer Science
-- Data Structures & Algorithms
+### Computer Science Fundamentals
+- Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (OOP)
 
 ### Tools
@@ -62,24 +62,23 @@ Passionate about transforming raw data into actionable insights and building dat
 - Order Analysis
 - Business Recommendations
 
-*(More SQL, Python, and Power BI projects coming soon.)*
+> 🚀 More industry-level SQL, Python, PostgreSQL, and Power BI projects coming soon.
 
 ---
 
 ## 🏆 Certifications
 
-- 🥇 NPTEL (IIT Madras) – The Joy of Computing using Python (Elite) – **81%**
-- 🥈 Smart Interviews – Smart Coder Silver
+- 🥇 **NPTEL (IIT Madras)** – The Joy of Computing using Python (Elite) – **81%**
+- 🥈 **Smart Interviews** – Smart Coder Silver
   - Global Rank: **6155 / 52638**
-- 📊 OfficeMaster – Microsoft Excel Using AI Workshop
+- 📊 **OfficeMaster** – Microsoft Excel Using AI Workshop
 
 ---
 
 ## 🚀 Currently Building
 
 - End-to-End Data Analytics Projects
-- Advanced SQL
-- PostgreSQL
+- Advanced SQL & PostgreSQL
 - Python for Data Analytics
 - Power BI Dashboards
 - Statistics for Data Analytics
@@ -93,4 +92,4 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
