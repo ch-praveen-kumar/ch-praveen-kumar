@@ -1,34 +1,36 @@
 # Hi there 👋, I'm Chintha Praveen Kumar
 
 <h3 align="center">
-📊 Data Analytics Enthusiast | Python • SQL • Excel • Power BI
+📊 Aspiring Data Analyst | Python • SQL • Excel • Power BI
 </h3>
 
 <p align="center">
-Passionate about transforming raw data into actionable insights and building data-driven solutions to solve real-world business problems.
+Passionate about transforming raw data into actionable insights, building end-to-end analytics projects, and solving real-world business problems through data.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (Final Year) at **Sreenidhi Institute of Science and Technology (SNIST)**
-- 📊 Passionate about Data Analytics and Business Intelligence
-- 💻 Strong foundation in Python, Java, C, SQL, Data Structures & Algorithms, and Object-Oriented Programming
-- 📈 Skilled in data analysis, visualization, and dashboard development using Excel, Pandas, NumPy, Matplotlib, Seaborn, and Power BI
-- 🚀 Building end-to-end Data Analytics projects to solve real-world business problems
+- 🎓 B.Tech in Computer Science & Engineering at **Sreenidhi Institute of Science and Technology (SNIST)**
+- 📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
+- 💻 Strong foundation in Python, Java, C, SQL, Data Structures & Algorithms (DSA), and Object-Oriented Programming (OOP)
+- 📈 Skilled in data analysis using Excel, Pandas, NumPy, Matplotlib, Seaborn, PostgreSQL, and Power BI
+- 🚀 Building end-to-end Data Analytics projects using real-world datasets
 - 🌱 Continuously learning and improving through hands-on projects
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
+
 - Python
 - Java
 - C
 
-### Data Analytics
+### 📊 Data Analytics
+
 - SQL
 - PostgreSQL
 - Microsoft Excel
@@ -40,11 +42,13 @@ Passionate about transforming raw data into actionable insights and building dat
 - Power Query
 - Power Pivot
 
-### Computer Science Fundamentals
+### 🧠 Computer Science Fundamentals
+
 - Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (OOP)
 
-### Tools
+### 🔧 Tools
+
 - Git
 - GitHub
 - VS Code
@@ -52,44 +56,46 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ---
 
-## 📂 Featured Projects
+## 📂 Portfolio
 
-### 📊 Vrinda Store Annual Sales Analysis
+This GitHub profile showcases practical, end-to-end projects in:
 
-- Interactive Excel Dashboard
-- Sales Trend Analysis
-- Customer Insights
-- Order Analysis
-- Business Recommendations
+- 📊 Data Analytics
+- 🐍 Python
+- 🗄️ SQL & PostgreSQL
+- 📈 Power BI
+- 📑 Microsoft Excel
+- 📉 Data Visualization
+- 💼 Business Intelligence
 
-> 🚀 More industry-level SQL, Python, PostgreSQL, and Power BI projects coming soon.
+🚀 New projects are added regularly as I continue building my Data Analytics portfolio.
 
 ---
 
 ## 🏆 Certifications
 
-- 🥇 **NPTEL (IIT Madras)** – The Joy of Computing using Python (Elite) – **81%**
-- 🥈 **Smart Interviews** – Smart Coder Silver
-  - Global Rank: **6155 / 52638**
-- 📊 **OfficeMaster** – Microsoft Excel Using AI Workshop
+- 🥇 **NPTEL (IIT Madras)** – *The Joy of Computing using Python* (Elite) – **81%**
+- 🥈 **Smart Interviews** – *Smart Coder Silver*
+  - 🌍 Global Rank: **6155 / 52638**
+- 📊 **BE10X** – Microsoft Excel Using AI Workshop
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Currently Learning
 
-- End-to-End Data Analytics Projects
 - Advanced SQL & PostgreSQL
-- Python for Data Analytics
-- Power BI Dashboards
+- Power BI Dashboard Development
 - Statistics for Data Analytics
+- Machine Learning Fundamentals
+- End-to-End Analytics Projects
 
 ---
 
 ## 🌐 Connect With Me
 
-- **GitHub:** https://github.com/ch-praveen-kumar
-- **LinkedIn:** https://www.linkedin.com/in/ch-praveenkumar/
+- 💻 **GitHub:** https://github.com/ch-praveen-kumar
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ch-praveenkumar/
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
