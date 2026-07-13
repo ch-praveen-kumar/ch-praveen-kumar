@@ -5,43 +5,31 @@
 </h3>
 
 <p align="center">
-Passionate about transforming raw data into actionable insights, building end-to-end analytics projects, and solving real-world business problems through data.
+Building practical data analytics solutions using Python, SQL, Excel, PostgreSQL, and Power BI while continuously improving my analytical and problem-solving skills.
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering at **Sreenidhi Institute of Science and Technology (SNIST)**
-- 📊 Passionate about **Data Analytics**, **Business Intelligence**, and **Data Visualization**
-- 💻 Strong foundation in **Python, Java, C, SQL, DSA, and OOP**
-- 📈 Skilled in **Excel, Pandas, NumPy, Matplotlib, Seaborn, PostgreSQL, and Power BI**
-- 🚀 Building end-to-end **Data Analytics projects** using real-world datasets
-- 🌱 Continuously learning through hands-on projects and problem-solving
+- 📊 Interested in **Data Analytics**, **Business Intelligence**, and **Data Visualization**
+- 💻 Skilled in **Python, SQL, Java, C, Data Structures & Algorithms, and Object-Oriented Programming**
+- 📈 Experienced with **Excel, Pandas, NumPy, Matplotlib, Seaborn, PostgreSQL, Git, GitHub, and Power BI**
+- 🚀 Building practical data analytics projects to strengthen my technical and analytical skills
+- 🌱 Currently learning advanced analytics concepts through hands-on practice
+
+---
+
+## 🛠️ Tech Stack
+
+<!-- Your badges here -->
 
 ---
 
 ## 📂 Portfolio
 
-This GitHub profile showcases practical projects in:
+This GitHub profile contains projects and practice work related to:
 
 - 📊 Data Analytics
 - 🐍 Python
@@ -51,7 +39,7 @@ This GitHub profile showcases practical projects in:
 - 📉 Data Visualization
 - 💼 Business Intelligence
 
-🚀 I regularly publish new projects as I continue expanding my Data Analytics portfolio.
+New repositories will be added as I continue learning and building.
 
 ---
 
@@ -67,24 +55,23 @@ This GitHub profile showcases practical projects in:
 ## 🚀 Currently Learning
 
 - Advanced SQL & PostgreSQL
-- Power BI Dashboard Development
 - Statistics for Data Analytics
+- Power BI Dashboard Development
 - Machine Learning Fundamentals
-- End-to-End Analytics Projects
+- End-to-End Data Analytics Workflows
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled **Data Analyst** by building industry-level analytics projects, extracting meaningful business insights from data, and contributing to data-driven decision-making.
+To become a Data Analyst by applying data analysis, visualization, and business intelligence techniques to solve real-world problems and support data-driven decision-making.
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💻 **GitHub:** https://github.com/ch-praveen-kumar
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ch-praveenkumar/
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** is initial need 
+⭐ Thanks for visiting my profile!
